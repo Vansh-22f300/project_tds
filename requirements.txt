@@ -1,0 +1,8 @@
+Flask
+openai
+requests
+pytesseract
+numpy
+pandas
+sentence-transformers
+sqlite3
