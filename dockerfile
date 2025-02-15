@@ -18,6 +18,8 @@ WORKDIR /app
 
 # Copy application files
 COPY app.py /app
+COPY tasksA.py /app
+COPY tasksB.py /app
 COPY requirements.txt /app
 
 # Explicitly set the correct binary path and use `sh -c`
